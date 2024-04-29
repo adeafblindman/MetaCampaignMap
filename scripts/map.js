@@ -942,7 +942,7 @@ $(window).on('load', function() {
         L.tileLayer('media/map/{z}/{x}/{y}.jpg', {
       maxZoom: 5,
       continuousWorld: true,
-      noWrap: true,  
+      noWrap: false,  
     
 
       // Pass the api key to most commonly used parameters
