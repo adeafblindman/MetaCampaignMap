@@ -941,8 +941,8 @@ $(window).on('load', function() {
     //L.tileLayer.provider(basemap, {
         L.tileLayer('media/map/{z}/{x}/{y}.jpg', {
       maxZoom: 5,
-      continuousWorld: true,
-      noWrap: false,  
+      continuousWorld: false,
+      noWrap: true,  
     
 
       // Pass the api key to most commonly used parameters
