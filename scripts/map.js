@@ -938,8 +938,12 @@ $(window).on('load', function() {
 
     var basemap = trySetting('_tileProvider', 'CartoDB.Positron');
     
-    L.tileLayer.provider(basemap, {
-      maxZoom: 18,
+    //L.tileLayer.provider(basemap, {
+        L.tileLayer('media/map/{z}/{x}/{y}.jpg', {
+      maxZoom: 5,
+      continuousWorld: false,
+      noWrap: true,  
+    
 
       // Pass the api key to most commonly used parameters
       apiKey: trySetting('_tileProviderApiKey', ''),
