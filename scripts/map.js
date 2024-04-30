@@ -81,7 +81,26 @@ $(window).on('load', function() {
           : points[i]['Marker Color'];
       }
     }
+ /**
+   * Given a collection of points, determines the layers based on 'Group'
+   * column in the spreadsheet.
+   */
+  function determineLayers(points) {
+    var groups = [];
+    var layers = {};
 
+    for (var i in bugpoints) {
+      var group = bugpoints[i].Group;
+      if (group && groups.indexOf(group) === -1) {
+        // Add group to groups
+        groups.push(group);
+
+        // Add color to the crosswalk
+        group2color[ group ] = points[i]['Marker Icon'].indexOf('.') > 0
+          ? bugpoints[i]['Marker Icon']
+          : bugpoints[i]['Marker Color'];
+      }
+    }
     // if none of the points have named layers, return no layers
     if (groups.length === 0) {
       layers = undefined;
