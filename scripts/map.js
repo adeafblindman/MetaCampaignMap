@@ -940,7 +940,7 @@ $(window).on('load', function() {
     
     //L.tileLayer.provider(basemap, {
         L.tileLayer('media/map/{z}/{x}/{y}.jpg', {
-      maxZoom: 18,
+      maxZoom: 5,
       continuousWorld: false,
       noWrap: true,  
     
