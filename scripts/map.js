@@ -113,17 +113,17 @@ $(window).on('load', function() {
 
 // icon size based on zoom lvl
       var iconSize5 = point[i];
-      var size = (iconSize5: [120, 110]);
+      var size = (iconSize5 : [120, 110]);
       var iconSize4 = point[i];
-      var size = (iconSize5: [60, 60]);
+      var size = (iconSize4 : [60, 60]);
       var iconSize3 = point[i];
-      var size = (iconSize5: [30, 30]);
+      var size = (iconSize3 : [30, 30]);
       var iconSize2 = point[i];
-      var size = (iconSize5: [15, 15]);      
+      var size = (iconSize2 : [15, 15]);      
       var iconSize1 = point[i];
-      var size = (iconSize5: [8, 8]); 
+      var size = (iconSize1 : [8, 8]); 
       var iconSize0 = point[i];
-      var size = (iconSize5: [3, 3]);
+      var size = (iconSize0 : [3, 3]);
       
       var anchor = [size[0] / 2, size[1]];
 
