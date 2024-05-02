@@ -145,8 +145,9 @@ map.on('zoomed', functon(){
   map.removeLayer(iconSize0);
   map.removeLayer(iconSize2);
   map.addLayer(iconSize1);
-  }
-    })
+      }
+    }
+  )
       // zoom lvl 2
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
