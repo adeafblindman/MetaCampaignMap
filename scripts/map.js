@@ -147,7 +147,7 @@ map.on('zoomed', functon(){
   map.addLayer(iconSize1);
       }
     }
-  )
+  );
       // zoom lvl 2
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
@@ -156,7 +156,7 @@ map.on('zoomed', functon(){
   map.removeLayer(iconSize3);
   map.addLayer(iconSize2);
   }
-    })
+    });
 
       // zoom lvl 3
 map.on('zoomed', functon(){
@@ -166,7 +166,7 @@ map.on('zoomed', functon(){
   map.removeLayer(iconSize4);
   map.addLayer(iconSize3);
   }
-    })
+    });
       // zoom lvl 3
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
@@ -175,7 +175,7 @@ map.on('zoomed', functon(){
   map.removeLayer(iconSize5);
   map.addLayer(iconSize4);
   }
-    })
+    });
       // zoom lvl 5
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
@@ -183,7 +183,7 @@ map.on('zoomed', functon(){
   map.removeLayer(iconSize4);
   map.addLayer(iconSize5);
   }
-    })
+    });
       // zoom lvl 0
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
@@ -191,7 +191,7 @@ map.on('zoomed', functon(){
   map.removeLayer(iconSize1);
   map.addLayer(iconSize0);
   }
-    })
+    });
 
       
       if (point.Latitude !== '' && point.Longitude !== '') {
