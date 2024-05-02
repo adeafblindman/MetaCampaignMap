@@ -106,11 +106,25 @@ $(window).on('load', function() {
 
       // If icon contains '.', assume it's a path to a custom icon,
       // otherwise create a Font Awesome icon
-      var iconSize = point['Custom Size'];
-      var size = (iconSize.indexOf('x') > 0)
-        ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
-        : [32, 32];
+      //var iconSize = point['Custom Size'];
+      //var size = (iconSize.indexOf('x') > 0)
+      //  ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
+      //  : [32, 32];
 
+// icon size based on zoom lvl
+      var iconSize5 = point[];
+      var size = (iconSize5: [120, 110]);
+      var iconSize4 = point[];
+      var size = (iconSize5: [60, 60]);
+      var iconSize3 = point[];
+      var size = (iconSize5: [30, 30]);
+      var iconSize2 = point[];
+      var size = (iconSize5: [15, 15]);      
+      var iconSize1 = point[];
+      var size = (iconSize5: [8, 8]); 
+      var iconSize0 = point[];
+      var size = (iconSize5: [3, 3]);
+      
       var anchor = [size[0] / 2, size[1]];
 
       var icon = (point['Marker Icon'].indexOf('.') > 0)
@@ -124,7 +138,61 @@ $(window).on('load', function() {
           point['Marker Color'].toLowerCase(),
           point['Icon Color']
         );
+      // zoom lvl 1
+map.on('zoomed', functon(){
+  var currentZoom = map.getZoom();
+  if (currentZoom = 1){
+  map.removeLayer(iconSize0);
+  map.removeLayer(iconSize2);
+  map.addLayer(iconSize1);
+  }
+    })
+      // zoom lvl 2
+map.on('zoomed', functon(){
+  var currentZoom = map.getZoom();
+  if (currentZoom = 2){
+  map.removeLayer(iconSize1);
+  map.removeLayer(iconSize3);
+  map.addLayer(iconSize2);
+  }
+    })
 
+      // zoom lvl 3
+map.on('zoomed', functon(){
+  var currentZoom = map.getZoom();
+  if (currentZoom = 3){
+  map.removeLayer(iconSize2);
+  map.removeLayer(iconSize4);
+  map.addLayer(iconSize3);
+  }
+    })
+      // zoom lvl 3
+map.on('zoomed', functon(){
+  var currentZoom = map.getZoom();
+  if (currentZoom = 4){
+  map.removeLayer(iconSize3);
+  map.removeLayer(iconSize5);
+  map.addLayer(iconSize4);
+  }
+    })
+      // zoom lvl 5
+map.on('zoomed', functon(){
+  var currentZoom = map.getZoom();
+  if (currentZoom = 5){
+  map.removeLayer(iconSize4);
+  map.addLayer(iconSize5);
+  }
+    })
+      // zoom lvl 0
+map.on('zoomed', functon(){
+  var currentZoom = map.getZoom();
+  if (currentZoom = 0){
+  map.removeLayer(iconSize1);
+  map.addLayer(iconSize0);
+  }
+    })
+
+      
       if (point.Latitude !== '' && point.Longitude !== '') {
         var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
           .bindPopup("<b>" + point['Name'] + '</b><br>' +
