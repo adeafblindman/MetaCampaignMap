@@ -138,16 +138,15 @@ $(window).on('load', function() {
           point['Marker Color'].toLowerCase(),
           point['Icon Color']
         );
-      // zoom lvl 1
+      // zoom lvl 1 https://gis.stackexchange.com/questions/130368/changing-marker-size-by-zoom-in-leaflet
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
   if (currentZoom = 1){
   map.removeLayer(iconSize0);
   map.removeLayer(iconSize2);
   map.addLayer(iconSize1);
-      }
-    }
-  );
+  }
+    });
       // zoom lvl 2
 map.on('zoomed', functon(){
   var currentZoom = map.getZoom();
