@@ -142,9 +142,9 @@ $(window).on('load', function() {
 map.on('zoomed', functon( ){
   var currentZoom = map.getZoom();
   if (currentZoom = 1){
-  map.removeLayer(iconSize0);
-  map.removeLayer(iconSize2);
-  map.addLayer(iconSize1);
+    map.removeLayer(iconSize0);
+    map.removeLayer(iconSize2);
+    map.addLayer(iconSize1)
   }
     });
       // zoom lvl 2
