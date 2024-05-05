@@ -169,16 +169,7 @@ map.on('zoomed', function(){
   map.addLayer(iconSize3);
   }
     });
-      // zoom lvl 3
-map.on('zoomed', function(){
-  var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`);
-  if (currentZoom = 4){
-  map.removeLayer(iconSize3);
-  map.removeLayer(iconSize5);
-  map.addLayer(iconSize4);
-  }
-    });
+
       // zoom lvl 5
 map.on('zoomed', function(){
   var currentZoom = map.getZoom();
@@ -198,6 +189,16 @@ map.on('zoomed', function(){
   }
     });
 
+      // zoom lvl 4
+map.on('zoomed', function(){
+  var currentZoom = map.getZoom();
+  console.log(`Current zoom: ${currentZoom}`);
+  if (currentZoom = 4){
+  map.removeLayer(iconSize3);
+  map.removeLayer(iconSize5);
+  map.addLayer(iconSize4);
+  }
+    });
       
       if (point.Latitude !== '' && point.Longitude !== '') {
         var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
