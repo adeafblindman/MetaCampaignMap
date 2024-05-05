@@ -151,7 +151,7 @@ map.on('zoomed', () => {
       // zoom lvl 2
 map.on('zoomed', () => {
   var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`)
+  console.log(`Current zoom: ${currentZoom}`);
   if (currentZoom = 2){
   map.removeLayer(iconSize1);
   map.removeLayer(iconSize3);
@@ -162,7 +162,7 @@ map.on('zoomed', () => {
       // zoom lvl 3
 map.on('zoomed', function(){
   var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`)
+  console.log(`Current zoom: ${currentZoom}`);
   if (currentZoom = 3){
   map.removeLayer(iconSize2);
   map.removeLayer(iconSize4);
@@ -172,7 +172,7 @@ map.on('zoomed', function(){
       // zoom lvl 3
 map.on('zoomed', function(){
   var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`)
+  console.log(`Current zoom: ${currentZoom}`);
   if (currentZoom = 4){
   map.removeLayer(iconSize3);
   map.removeLayer(iconSize5);
@@ -182,7 +182,7 @@ map.on('zoomed', function(){
       // zoom lvl 5
 map.on('zoomed', function(){
   var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`)
+  console.log(`Current zoom: ${currentZoom}`);
   if (currentZoom = 5){
   map.removeLayer(iconSize4);
   map.addLayer(iconSize5);
@@ -191,7 +191,7 @@ map.on('zoomed', function(){
       // zoom lvl 0
 map.on('zoomed', function(){
   var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`)
+  console.log(`Current zoom: ${currentZoom}`);
   if (currentZoom = 0){
   map.removeLayer(iconSize1);
   map.addLayer(iconSize0);
