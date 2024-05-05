@@ -125,7 +125,7 @@ $(window).on('load', function() {
       var iconSize0 = point[i];
       var size = (iconSize0,  [3, 3]);
       
-      var anchor = [iconSize[0] / 2, iconSize[1]];
+      var anchor = [size[4] / 2, size[1]];
 
       var icon = (point['Marker Icon'].indexOf('.') > 0)
         ? L.icon({
