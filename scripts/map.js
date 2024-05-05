@@ -141,7 +141,7 @@ $(window).on('load', function() {
       // zoom lvl 1 https://gis.stackexchange.com/questions/130368/changing-marker-size-by-zoom-in-leaflet
 map.on('zoomed', () => {
   var currentZoom = map.getZoom();
-  console.log(currentZoom);
+  console.log(map.getZoom);
   if (currentZoom = 1){
     map.removeLayer(iconSize0);
     map.removeLayer(iconSize2);
@@ -151,7 +151,7 @@ map.on('zoomed', () => {
       // zoom lvl 2
 map.on('zoomed', () => {
   var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`);
+  console.log(`Current zoom: ${getZoom}`);
   if (currentZoom = 2){
   map.removeLayer(iconSize1);
   map.removeLayer(iconSize3);
