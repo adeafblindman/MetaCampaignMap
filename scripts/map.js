@@ -106,26 +106,14 @@ $(window).on('load', function() {
 
       // If icon contains '.', assume it's a path to a custom icon,
       // otherwise create a Font Awesome icon
-      //var iconSize = point['Custom Size'];
-      //var size = (iconSize.indexOf('x') > 0)
-      //  ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
-      //  : [32, 32];
+      var iconSize = point['Custom Size'];
+      var size = (iconSize.indexOf('x') > 0)
+       ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
+        : [32, 32];
 
-// icon size based on zoom lvl
-      var iconSize5 = point[i];
-      var size = (iconSize5,  [120, 110]);
-      var iconSize4 = point[i];
-      var size = (iconSize4,  [60, 60]);
-      var iconSize3 = point[i];
-      var size = (iconSize3,  [30, 30]);
-      var iconSize2 = point[i];
-      var size = (iconSize2,  [15, 15]);      
-      var iconSize1 = point[i];
-      var size = (iconSize1,  [8, 8]); 
-      var iconSize0 = point[i];
-      var size = (iconSize0,  [3, 3]);
+
       
-      var anchor = [size[4] / 2, size[1]];
+      var anchor = [size[0] / 2, size[1]];
 
       var icon = (point['Marker Icon'].indexOf('.') > 0)
         ? L.icon({
@@ -138,67 +126,7 @@ $(window).on('load', function() {
           point['Marker Color'].toLowerCase(),
           point['Icon Color']
         );
-      // zoom lvl 1 https://gis.stackexchange.com/questions/130368/changing-marker-size-by-zoom-in-leaflet
-map.on('zoomed', () => {
-  var currentZoom = map.getZoom();
-  console.log(map.getZoom);
-  if (currentZoom = 1){
-    map.removeLayer(iconSize0);
-    map.removeLayer(iconSize2);
-    map.addLayer(iconSize1)
-  }
-});
-      // zoom lvl 2
-map.on('zoomed', () => {
-  var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${getZoom}`);
-  if (currentZoom = 2){
-  map.removeLayer(iconSize1);
-  map.removeLayer(iconSize3);
-  map.addLayer(iconSize2);
-  }
-    });
-
-      // zoom lvl 3
-map.on('zoomed', function(){
-  var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`);
-  if (currentZoom = 3){
-  map.removeLayer(iconSize2);
-  map.removeLayer(iconSize4);
-  map.addLayer(iconSize3);
-  }
-    });
-
-      // zoom lvl 5
-map.on('zoomed', function(){
-  var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`);
-  if (currentZoom = 5){
-  map.removeLayer(iconSize4);
-  map.addLayer(iconSize5);
-  }
-    });
-      // zoom lvl 0
-map.on('zoomed', function(){
-  var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`);
-  if (currentZoom = 0){
-  map.removeLayer(iconSize1);
-  map.addLayer(iconSize0);
-  }
-    });
-
-      // zoom lvl 4
-map.on('zoomed', function(){
-  var currentZoom = map.getZoom();
-  console.log(`Current zoom: ${currentZoom}`);
-  if (currentZoom = 4){
-  map.removeLayer(iconSize3);
-  map.removeLayer(iconSize5);
-  map.addLayer(iconSize4);
-  }
-    });
+      
       
       if (point.Latitude !== '' && point.Longitude !== '') {
         var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
