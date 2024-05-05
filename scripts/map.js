@@ -109,8 +109,8 @@ $(window).on('load', function() {
       var iconSize = point['Custom Size'];
       var size = (iconSize.indexOf('x') > 0)
        ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
-        : [32, 32];
-
+        : [120, 110];
+// line 112 might set icon size if there is none defined in GSheets
 
       
       var anchor = [size[0] / 2, size[1]];
