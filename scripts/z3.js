@@ -1161,7 +1161,7 @@ $(window).on('load', function() {
 };
 customButton.addTo(map);
 
- const customButton = L.control({ position: 'topright' });
+ const customButton2 = L.control({ position: 'topright' });
  customButton.onAdd = () => {
     const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
@@ -1169,5 +1169,5 @@ customButton.addTo(map);
     
     return buttonDiv;
 };
-customButton.addTo(map);
+customButton2.addTo(map);
       // end of custom button
