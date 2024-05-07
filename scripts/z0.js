@@ -1152,7 +1152,7 @@ $(window).on('load', function() {
  customButton.onAdd = () => {
     const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
-    buttonDiv.innerHTML = `<a href="1.html"><button>+</button></a>`;
+    buttonDiv.innerHTML = `<a href="z1.html"><button>+</button></a>`;
     
     return buttonDiv;
 };
