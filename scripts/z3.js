@@ -1165,7 +1165,7 @@ customButton.addTo(map);
  customButton2.onAdd = () => {
     const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
-    buttonDiv.innerHTML = `<a href="z2.html"><button>-</button></a>`;
+    buttonDiv.innerHTML = `<a href="z2.html"><button> - </button></a>`;
     
     return buttonDiv;
 };
