@@ -1161,4 +1161,13 @@ $(window).on('load', function() {
 };
 customButton.addTo(map);
 
+ const customButton = L.control({ position: 'topright' });
+ customButton.onAdd = () => {
+    const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
+
+    buttonDiv.innerHTML = `<a href="z2.html"><button>-</button></a>`;
+    
+    return buttonDiv;
+};
+customButton.addTo(map);
       // end of custom button
