@@ -1162,7 +1162,7 @@ $(window).on('load', function() {
 customButton.addTo(map);
 
  const customButton2 = L.control({ position: 'bottomright' });
- customButton.onAdd = () => {
+ customButton2.onAdd = () => {
     const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
     buttonDiv.innerHTML = `<a href="z2.html"><button>-</button></a>`;
