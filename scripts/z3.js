@@ -114,26 +114,16 @@ $(window).on('load', function() {
 // line 113 might set icon size if there is none defined in GSheets
 
 // custom zoom button
-L.Control.Button = L.Control.extend({
-    options: {
-        position: 'topleft'
-    },
-    onAdd: function (map) {
-        var container = L.DomUtil.create('div', 'leaflet-bar leaflet-control');
-        var button = L.DomUtil.create('a', 'leaflet-control-button', container);
-        L.DomEvent.disableClickPropagation(button);
-        L.DomEvent.on(button, 'click', function(){
-            console.log('click');
-        });
 
-        container.title = "Title";
+ const customButton = L.control({ position: 'topright' });
+ customButton.onAdd = () => {
+    const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
-        return container;
-    },
-    onRemove: function(map) {},
-});
-var control = new L.Control.Button()
-control.addTo(map);
+    buttonDiv.innerHTML = `<a href="z4.html"><button>+</button></a>`;
+    buttonDiv.addEventListener('click', () => console.log('click'))
+    return buttonDiv;
+};
+customButton.addTo(map)
 
       // end of custom button
 
