@@ -118,7 +118,7 @@ const customButton = L.control({ position: 'topright' });
  customButton.onAdd = () => {
     const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
-    buttonDiv.innerHTML = `<button>Custom Button</button>`;
+    buttonDiv.innerHTML = `<button>+</button>`;
     buttonDiv.addEventListener('click', () => console.log('click'))
     return buttonDiv;
 };
