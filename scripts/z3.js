@@ -120,10 +120,10 @@ $(window).on('load', function() {
     const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
 
     buttonDiv.innerHTML = `<a href="z4.html"><button>+</button></a>`;
-    buttonDiv.addEventListener('click', () => console.log('click'))
+    
     return buttonDiv;
 };
-customButton.addTo(map)
+customButton.addTo(map);
 
       // end of custom button
 
