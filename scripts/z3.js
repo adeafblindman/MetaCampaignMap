@@ -113,19 +113,7 @@ $(window).on('load', function() {
         : [30, 30]; // zoom level 3
 // line 113 might set icon size if there is none defined in GSheets
 
-// custom zoom button
 
- const customButton = L.control({ position: 'topright' });
- customButton.onAdd = () => {
-    const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
-
-    buttonDiv.innerHTML = `<a href="z4.html"><button>+</button></a>`;
-    
-    return buttonDiv;
-};
-customButton.addTo(map);
-
-      // end of custom button
 
       
       var anchor = [size[0] / 2, size[1]];
@@ -1158,3 +1146,19 @@ customButton.addTo(map);
   }
 
 });
+
+
+
+// custom zoom button
+
+ const customButton = L.control({ position: 'topright' });
+ customButton.onAdd = () => {
+    const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
+
+    buttonDiv.innerHTML = `<a href="z4.html"><button>+</button></a>`;
+    
+    return buttonDiv;
+};
+customButton.addTo(map);
+
+      // end of custom button
