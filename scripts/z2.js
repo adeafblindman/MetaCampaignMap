@@ -1144,3 +1144,27 @@ $(window).on('load', function() {
   }
 
 });
+
+
+// custom zoom button
+
+ const customButton = L.control({ position: 'topright' });
+ customButton.onAdd = () => {
+    const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
+
+    buttonDiv.innerHTML = `<a href="z3.html"><button>+</button></a>`;
+    
+    return buttonDiv;
+};
+customButton.addTo(map);
+
+ const customButton2 = L.control({ position: 'topright' });
+ customButton2.onAdd = () => {
+    const buttonDiv = L.DomUtil.create('div', 'button-wrapper');
+
+    buttonDiv.innerHTML = `<a href="z1.html"><button> - </button></a>`;
+    
+    return buttonDiv;
+};
+customButton2.addTo(map);
+      // end of custom button
