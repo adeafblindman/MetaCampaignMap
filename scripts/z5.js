@@ -110,7 +110,7 @@ $(window).on('load', function() {
       var iconSize = point['Custom Size'];
       var size = (iconSize.indexOf('x') > 0)
        ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
-        : [200, 190]; // zoom level 5
+        : [210, 200]; // zoom level 5
 // line 113 might set icon size if there is none defined in GSheets
 
       
