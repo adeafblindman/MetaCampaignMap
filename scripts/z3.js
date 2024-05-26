@@ -927,7 +927,7 @@ $(window).on('load', function() {
     } else if (name) {
       credit += ' by ' + name + ' | ';
     } else {
-      credit += ' | ';
+      credit += ' | Icons courtesy of: darthstoin, khronotik | ';
     }
 
     credit += 'View <a href="' + getSetting('_githubRepo') + '">code</a>';
