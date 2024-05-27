@@ -111,7 +111,7 @@ $(window).on('load', function() {
       var size = (iconSize.indexOf('x') > 0)
        ? [parseInt(iconSize.split('x')[0]), parseInt(iconSize.split('x')[1])]
         : [50, 50]; // zoom level 3
-// line 113 might set icon size if there is none defined in GSheets
+// line 113 set icon size if there is none defined in GSheets
 
 
 
