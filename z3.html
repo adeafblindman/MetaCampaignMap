@@ -95,7 +95,7 @@
 <script> // image overlays
 // NO FLY ZONE
 var imageUrl = 'media/Campaings/Campaign_2_Blood__Sand_No_Fly_Zone__Hazardous_Winds.png';
-var latLngBounds = L.latLngBounds([[100, -100], [-50, 50]]);
+var latLngBounds = L.latLngBounds([[50, -100], [-50, 100]]); // [top bottom] [left right]
 var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
     interactive: true
 }).addTo(map);
