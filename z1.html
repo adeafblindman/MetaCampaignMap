@@ -87,6 +87,61 @@
       marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
     });
  </script>   
+
+  <script> // image overlays
+// NO FLY ZONE
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_No_Fly_Zone__Hazardous_Winds.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]); // [top left] [bottom right]
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+// EDELWEISS
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_Edelweiss.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]);
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+
+  // BOB
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_Bob_The_Builder.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]);
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+  // DESERT SURPRISE
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_Desert_Surprise.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]);
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+    // HOMEFRONT
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_Homefront.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]);
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+      // INCENSE IRON
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_Incense__Iron.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]);
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+        // SAND RAT
+var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_Sand_Rat.png';
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]);
+var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
+    interactive: true
+}).addTo(map);
+
+
+</script> 
+
   
   <script type="text/javascript" src="./google-doc-url.js"></script>
   <script type="text/javascript" src="./scripts/constants.js"></script>
