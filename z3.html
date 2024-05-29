@@ -143,7 +143,11 @@ var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
     interactive: true
 }).addTo(map);
 
-  
+  layersControl = {
+    overlays: {
+      "Image Overlay": this.imageOverlay
+    }
+ };
 </script> 
 
 
