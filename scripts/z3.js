@@ -174,7 +174,7 @@ $(window).on('load', function() {
       var pointsLegend = L.control.layers(null, layers, {
         collapsed: true,
         position: pos,
-        sortLayers: true,
+       // sortLayers: true,
       });
 
       if (getSetting('_pointsLegendPos') !== 'off') {
