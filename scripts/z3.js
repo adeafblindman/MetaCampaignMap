@@ -1173,18 +1173,3 @@ customButton.addTo(map);
 customButton2.addTo(map);
       // end of custom button
 
-// freeze marker cluster https://github.com/ghybs/Leaflet.MarkerCluster.Freezable
-var map = L.map("map"),
-    mcg = L.markerClusterGroup(options);
-    
-mcg.addLayers(arrayOfMarkers);
-mcg.addTo(map);
-
-mcg.freezeAtZoom(3);
-mcg.freezeAtZoom("maxKeepSpiderfy");
-mcg.freezeAtZoom("max");
-mcg.unfreeze(); // shortcut for mcg.freezeAtZoom(false)
-
-mcg.disableClusteringKeepSpiderfy(); // shortcut for mcg.freezeAtZoom("maxKeepSpiderfy")
-mcg.disableClustering(); // shortcut for mcg.freezeAtZoom("max")
-mcg.enableClustering(); // alias for mcg.unfreeze()
