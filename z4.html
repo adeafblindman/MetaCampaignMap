@@ -62,13 +62,38 @@
 
   <!-- After Leaflet and Leaflet.markercluster scripts -->
   <script src="leaflet.markercluster.freezable.js"></script>
+</head>
 
+<body>
 
+  <div class="loader">Loading...</div>
+  <div id="map"></div>
+  <table id="maptable" class="display"></table>
+
+  <script type="text/javascript">
+    var map = L.map('map', {
+      attributionControl: false,
+      zoomControl: false,
+      scrollWheelZoom: false,
+      tap: false
+    }).setView([41.76,-72.69], 11); // default center is overridden by Google Sheet options and points
+  </script>
+
+ <script type="text/javascript">
+//Coordinate Finder
+    var marker = L.marker([60.326948, -135.175781], {
+      draggable: true,
+    }).addTo(map);
+    marker.bindPopup('LatLng Marker').openPopup();
+    marker.on('dragend', function(e) {
+      marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
+    });
+ </script>   
 
 <script> // image overlays
 // NO FLY ZONE
 var imageUrl = 'media/Operations/Campaign_2_Blood__Sand_No_Fly_Zone__Hazardous_Winds.png';
-var latLngBounds = L.latLngBounds([[40.5, -135], [-40.5, 135]]); // [top left] [bottom right]
+var latLngBounds = L.latLngBounds([[60.5, -135], [-60.5, 135]]); // [top left] [bottom right]
 var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
     interactive: true
 }).addTo(map);
@@ -119,34 +144,9 @@ var imageOverlay = L.imageOverlay(imageUrl, latLngBounds, {
 
 </script> 
 
-  
-</head>
 
-<body>
 
-  <div class="loader">Loading...</div>
-  <div id="map"></div>
-  <table id="maptable" class="display"></table>
 
-  <script type="text/javascript">
-    var map = L.map('map', {
-      attributionControl: false,
-      zoomControl: false,
-      scrollWheelZoom: false,
-      tap: false
-    }).setView([41.76,-72.69], 11); // default center is overridden by Google Sheet options and points
-  </script>
-
- <script type="text/javascript">
-//Coordinate Finder
-    var marker = L.marker([60.326948, -135.175781], {
-      draggable: true,
-    }).addTo(map);
-    marker.bindPopup('LatLng Marker').openPopup();
-    marker.on('dragend', function(e) {
-      marker.getPopup().setContent(marker.getLatLng().toString()).openOn(map);
-    });
- </script>   
   
   <script type="text/javascript" src="./google-doc-url.js"></script>
   <script type="text/javascript" src="./scripts/constants.js"></script>
