@@ -10,8 +10,8 @@ $(function() {
   SearchableMapLib.initialize({
     filePath: 'data/MC_Round_3.csv',
     fileType: 'csv',
-    recordName: 'flu shot location',
-    recordNamePlural: 'flu shot locations',
+    recordName: 'Name',
+    recordNamePlural: 'Name',
     map_centroid: [0, 0],
     defaultZoom:  3,
     defaultRadius: 1610,
