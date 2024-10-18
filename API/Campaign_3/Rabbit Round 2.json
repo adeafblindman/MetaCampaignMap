@@ -1,0 +1,4052 @@
+{
+  "guild": {
+    "id": "222052888531173386",
+    "name": "ARMCO",
+    "iconUrl": "https://cdn.discordapp.com/icons/222052888531173386/b4ba2eb8800d80666bd21afd70e68cc6.png?size=512"
+  },
+  "channel": {
+    "id": "1290708167398789252",
+    "type": "GuildPublicThread",
+    "categoryId": "1290706429698768981",
+    "category": "battlegroup-orders",
+    "name": "Rabbit : Orders",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-10-12T00:00:00-05:00",
+    "before": null
+  },
+  "exportedAt": "2024-10-18T11:00:02.9505163-05:00",
+  "messages": [
+    {
+      "id": "1295893794541277225",
+      "type": "Default",
+      "timestamp": "2024-10-15T18:39:17.161-05:00",
+      "timestampEdited": "2024-10-15T18:39:24.925-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# **======orders open======**",
+      "author": {
+        "id": "126747253342863360",
+        "name": "captainshack",
+        "discriminator": "0000",
+        "nickname": "CaptainShack",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222067398138658817",
+            "name": "Fleet Command",
+            "color": "#2ECC71",
+            "position": 46
+          },
+          {
+            "id": "360797515139907584",
+            "name": "Sergeant (YouTube)",
+            "color": "#7562E9",
+            "position": 39
+          },
+          {
+            "id": "944400968005603328",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 37
+          },
+          {
+            "id": "944628838976094249",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 35
+          },
+          {
+            "id": "585542447984279562",
+            "name": "Nitro Booster",
+            "color": "#F47FFF",
+            "position": 32
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "534149034613407744",
+            "name": "Atlas Server",
+            "color": "#39D3DD",
+            "position": 28
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "944400968005603331",
+            "name": "Twitch Subscriber: Tier 3",
+            "color": null,
+            "position": 8
+          },
+          {
+            "id": "944628838976094250",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/126747253342863360/4b1a075af533e03cee059a66b0157f87.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 7,
+          "users": [
+            {
+              "id": "169216538639990784",
+              "name": "briturion",
+              "discriminator": "0000",
+              "nickname": "Briturion",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/169216538639990784/a4959877f46d5c70c051426007101358.png?size=512"
+            },
+            {
+              "id": "234292052026720256",
+              "name": "alx9865",
+              "discriminator": "0000",
+              "nickname": "alx",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/234292052026720256/6a3b8e6c4a5bf12c502233394f6739a8.png?size=512"
+            },
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            },
+            {
+              "id": "409892933429362689",
+              "name": "cmndrb",
+              "discriminator": "0000",
+              "nickname": "CmndrB",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/409892933429362689/f4384f6803b61b5c7c1daafbd9bcdf32.png?size=512"
+            },
+            {
+              "id": "426589112129028116",
+              "name": "fiachsticks",
+              "discriminator": "0000",
+              "nickname": "Fiach",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/426589112129028116/8be4acdf074e787124e849f4608fe605.png?size=512"
+            },
+            {
+              "id": "472860729356058634",
+              "name": "captainrex76",
+              "discriminator": "0000",
+              "nickname": "CaptainRex76",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/472860729356058634/5c172e208ed523a36c3ce16c08cebdaf.png?size=512"
+            },
+            {
+              "id": "602678096818339874",
+              "name": "justanothernoone",
+              "discriminator": "0000",
+              "nickname": "JustAnotherNoOne",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/602678096818339874/100481952db4cfcf437eff92bcc0856e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1295906338462765117",
+      "type": "Default",
+      "timestamp": "2024-10-15T19:29:07.865-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign:  SinEater\nUnit Type:  Light Mech\nLV Pair:  N/A\nCarrying:  N/A\n\nOrder Type: Advance\n\nFormation/Facing:  Facing North\n\nStarting Coords: 36.2N : 05.8W\nEnding Coords: 36.2N : 05.0W\n\nRP:\n\"SinEater to Shepherd East, Got word from Blackout and our fly boys that they need more fire power at the power plant. That is a party I can't pass up on.\"",
+      "author": {
+        "id": "602678096818339874",
+        "name": "justanothernoone",
+        "discriminator": "0000",
+        "nickname": "JustAnotherNoOne (SinEater)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/602678096818339874/100481952db4cfcf437eff92bcc0856e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1295906338257502218",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1295906338257502218/MCT2.png?ex=6713a613&is=67125493&hm=c567cb0a6c1b0d6cb551a9db1c5813134fbca33c4193704d1c6e0e1ebd2a0eb3&",
+          "fileName": "MCT2.png",
+          "fileSizeBytes": 173435
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1295941567772889128",
+      "type": "Default",
+      "timestamp": "2024-10-15T21:49:07.187-05:00",
+      "timestampEdited": "2024-10-15T21:50:51.089-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Puma\nUnit Type: Light Vehicle\nLV Pair: Ember\nCarrying: Dex\n\nOrder Type: Skirmish, Move to 36.9N 7.2W to pick up Dex, Move south to 36.6N 6.9W to the supply drop to get Dex supply, then Move Northeast to 39.8N 5.6W ending coordinates.\n\nFormation/Facing: Facing North/Northeast\n\nStarting Coords: 36.4N 7.4W\nEnding Coords: 39.8N 5.6W\n\nRP: *Insert fun RP later when not nearly asleep*",
+      "author": {
+        "id": "169216538639990784",
+        "name": "briturion",
+        "discriminator": "0000",
+        "nickname": "Briturion (Puma)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          },
+          {
+            "id": "1196158851972608090",
+            "name": "Militia Corps",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/169216538639990784/a4959877f46d5c70c051426007101358.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1295941567567106240",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1295941567567106240/Puma_Skrimish_turn_2_verison_1.jpg?ex=6713c6e3&is=67127563&hm=b879db5c3fed1e06274fb751789968f8d0cc300cc9ec37db5ecb401c842d6090&",
+          "fileName": "Puma_Skrimish_turn_2_verison_1.jpg",
+          "fileSizeBytes": 100434
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1295978682325663764",
+      "type": "Default",
+      "timestamp": "2024-10-16T00:16:35.986-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Tardigrade (TAR) \nUnit Type: Light mech\nCarrying: N/A\n\nOrder Type: Skirmish, Move towards 35N 5W, firing on the powerplant, then move back north to 38.5N 6W in a wide angle to avoid fire.\n\nFacing: Northeast, in formation with the other mechs.\n\nStarting coords: 36N 6W\nEnding coords: 38.5N 6W \n\nRp: „This is Tardigrade to all Rabbit mech assets, we have received distress signals from Operation Blackout, moving to engage. Cover our flanks and let‘s give that powerplant some real heat! Heading north afterward. Tardigrade out.“",
+      "author": {
+        "id": "993468724826873868",
+        "name": "peppe_laugh",
+        "discriminator": "0000",
+        "nickname": "Jesus H. Christ (Tardigrade)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/993468724826873868/c2f0a1477143670f52a350c3aaebc9f0.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1295978682116214794",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1295978682116214794/Map_1_-_First_Round_Completed.jpg?ex=671340b3&is=6711ef33&hm=eeb729be49250f57f826e166a311173492fd06005963a21683180e6ff209c1cf&",
+          "fileName": "Map_1_-_First_Round_Completed.jpg",
+          "fileSizeBytes": 98424
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296088906433040415",
+      "type": "Default",
+      "timestamp": "2024-10-16T07:34:35.461-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign**: DEX\n**Unit Type**: Engineer\n**LV Pair:** @Briturion (Puma) Puma & @[ARMCO] CmndrB (Ember Troop) Ember\n**Carrying:** 1/2 Supplies\n\n**Order Type**: Construct tank traps as shown in attached file\n\n**Formation/Facing:** North Westward\n\n**Starting Coords**:  Load into Ember and Puma, resupply at first stop (36.6N 6.9W)\n**Ending Coords**: 39.8N 5W\n\n**RP**: Dex Units syncretized radio frequencies on the vehicles and begin a game of Eye Spy on a private channel between Ember and Puma vehicles.",
+      "author": {
+        "id": "368396546930245645",
+        "name": "jdanger87",
+        "discriminator": "0000",
+        "nickname": "JDanger87 (Dex Droid Engineerin)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "944400968005603328",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 37
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          },
+          {
+            "id": "944400968005603329",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/368396546930245645/c2139e460e97b7da1263aa9460997db3.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296088906059612273",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296088906059612273/1295935963771699241remix-1729046477972.png?ex=6713a75b&is=671255db&hm=22701d91c1d42ae5448832e110af5d503ea8f9d08e6f1c9c746761843cf41753&",
+          "fileName": "1295935963771699241remix-1729046477972.png",
+          "fileSizeBytes": 614844
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "169216538639990784",
+          "name": "briturion",
+          "discriminator": "0000",
+          "nickname": "Briturion (Puma)",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222079633401708544",
+              "name": "Captain (Patreon)",
+              "color": "#F1C40F",
+              "position": 40
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "462298724840898560",
+              "name": "Star Citizen",
+              "color": "#206694",
+              "position": 24
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            },
+            {
+              "id": "1196158851972608090",
+              "name": "Militia Corps",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/169216538639990784/a4959877f46d5c70c051426007101358.png?size=512"
+        },
+        {
+          "id": "409892933429362689",
+          "name": "cmndrb",
+          "discriminator": "0000",
+          "nickname": "[ARMCO] CmndrB (Ember Troop)",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1016078504766492682",
+              "name": "ArmSec Mercenary",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "853404644985405440",
+              "name": "Foxhole",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "865591530977886239",
+              "name": "Foxhole Officer",
+              "color": null,
+              "position": 17
+            },
+            {
+              "id": "916449170611658762",
+              "name": "Foxhole Verified",
+              "color": null,
+              "position": 15
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/409892933429362689/f4384f6803b61b5c7c1daafbd9bcdf32.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296110977481179178",
+      "type": "Default",
+      "timestamp": "2024-10-16T09:02:17.609-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Dirtmovers\nUnit Type: Logi truck\nCarrying: Knitter and Teal\n\nOrder Type: Advance around south of the power plant wall\n\nFormation/Facing: South/Southwest on the road just to the west of the tank \nStarting Coords: 36.4N 7.4W \nEnding Coords: 36.1N 5.3W\n\nRP: \"look they might not be part of the bunnies but the blackout guys are still ARMCO and from the sounds of it they're pretty beaten up. So let's get this '*ambulance*' rolling so you medics can help save some lives.\"",
+      "author": {
+        "id": "666746720469909555",
+        "name": "ipandagaming",
+        "discriminator": "0000",
+        "nickname": "IPanda",
+        "color": "#7562E9",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "944400968005603328",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 37
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "944400968005603329",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/666746720469909555/137edaac928128234494997e8481efa3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE8C",
+            "code": "bus",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f68c.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "368396546930245645",
+              "name": "jdanger87",
+              "discriminator": "0000",
+              "nickname": "JDanger87 (Dex Droid Engineerin)",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/368396546930245645/c2139e460e97b7da1263aa9460997db3.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE91",
+            "code": "ambulance",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f691.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "426589112129028116",
+              "name": "fiachsticks",
+              "discriminator": "0000",
+              "nickname": "Fiach",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/426589112129028116/8be4acdf074e787124e849f4608fe605.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "485114734920859669",
+            "name": "Salute",
+            "code": "Salute",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/485114734920859669.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "314775733274673153",
+              "name": "fleppo99",
+              "discriminator": "0000",
+              "nickname": "Fleppo",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/314775733274673153/441b48d6b312126dcde9606241a059f7.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296111134100815933",
+      "type": "Default",
+      "timestamp": "2024-10-16T09:02:54.95-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Ember\nUnit Type: Light Vehicle\nLV Pair: Puma\nCarrying: Dex\n\nOrder Type: Skirmish, Move to 36.9N 7.2W to pick up Dex, Move south to 36.6N 6.9W to the supply drop to get Dex supply, then Move Northeast to 39.8N 5.6W ending coordinates.\n\nFormation/Facing: Facing North/Northeast\n\nStarting Coords: 36.4M 7.4W\nEnding Coords: 39.8N 5.6W\n\nRP: Puma, This is Ember, I don't like the look of those tanks. Let's grab these droids and head North. Watch for Mines and hostiles.\n(These tin heads want to play *what* over the comms net... fine but keep one ear on the main channels, I don't like surprises.)",
+      "author": {
+        "id": "409892933429362689",
+        "name": "cmndrb",
+        "discriminator": "0000",
+        "nickname": "[ARMCO] CmndrB (Ember Troop)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "865591530977886239",
+            "name": "Foxhole Officer",
+            "color": null,
+            "position": 17
+          },
+          {
+            "id": "916449170611658762",
+            "name": "Foxhole Verified",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/409892933429362689/f4384f6803b61b5c7c1daafbd9bcdf32.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296111133719003197",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296111133719003197/Puma_Skrimish_turn_2_verison_1.png?ex=6713bc0e&is=67126a8e&hm=ab3aaa4227fc1f82bc6547b4f7380a6fc3950861cc672be144c73b50189e711e&",
+          "fileName": "Puma_Skrimish_turn_2_verison_1.png",
+          "fileSizeBytes": 552077
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1127296344864858162",
+            "name": "ARMBot",
+            "code": "ARMBot",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1127296344864858162.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "368396546930245645",
+              "name": "jdanger87",
+              "discriminator": "0000",
+              "nickname": "JDanger87 (Dex Droid Engineerin)",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/368396546930245645/c2139e460e97b7da1263aa9460997db3.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296124525905445018",
+      "type": "Default",
+      "timestamp": "2024-10-16T09:56:07.805-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign**: Tabby\n**Unit Type**: Light Vehicle\n**LV Pair**: @Sabre Bravo @Avisern \n**Carrying: **being carried \n**Order Type:** (Skirmish) Abandoning immobilized LV and getting a ride with LVs Sabre and Avi to commandeer a new LV at ending coords to rejoin the group and move north\nStarting Coords: 35N 8.5W\nEnding Coords: 34.5N 5W\n**RP**: Rabbit-1 is abandoning our wreck, we've got word of unoccupied vehicles near Crow Op. Does anyone have any paint? We're probably going to want to do some redecorating",
+      "author": {
+        "id": "242760724445790211",
+        "name": "tabbyinboots",
+        "discriminator": "0000",
+        "nickname": "TabbyInBoots",
+        "color": "#FF00A3",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "254762556248293376",
+            "name": "Fleet Ambassador",
+            "color": "#FF00A3",
+            "position": 45
+          },
+          {
+            "id": "222080414481645568",
+            "name": "Fleet Admirals (SuperMods)",
+            "color": "#E74C3C",
+            "position": 43
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          },
+          {
+            "id": "237019383728308225",
+            "name": "Special Guest",
+            "color": null,
+            "position": 22
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296124525523767426",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296124525523767426/LV_Shepards_track_Round_2.png?ex=6713c887&is=67127707&hm=d2f0352d5b0f857e235767639c1e717a9be63194716b1973d1acf224064c4600&",
+          "fileName": "LV_Shepards_track_Round_2.png",
+          "fileSizeBytes": 800214
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "818415771566473247",
+          "name": "avisern",
+          "discriminator": "0000",
+          "nickname": "Avisern",
+          "color": "#7562E9",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "944400968005603328",
+              "name": "Sergeant (Twitch)",
+              "color": "#7562E9",
+              "position": 37
+            },
+            {
+              "id": "944403616159121448",
+              "name": "Sergeant (Twitch)",
+              "color": "#7562E9",
+              "position": 36
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "944400968005603329",
+              "name": "Twitch Subscriber: Tier 1",
+              "color": null,
+              "position": 10
+            },
+            {
+              "id": "944403616159121449",
+              "name": "Twitch Subscriber: Tier 1",
+              "color": null,
+              "position": 7
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/818415771566473247/8b041fb288134f2c4ed60169ce8ad312.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296134071226863727",
+      "type": "Default",
+      "timestamp": "2024-10-16T10:34:03.587-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: aquila\nUnit Type: Light Vehicle\nLV Pair: Roses\nCarrying: Kellys\n\nOrder Type: Skirmish following ember and puma\n\nFormation/Facing Facing North/Northeast\n\n\nStarting Cords: 36.4M 7.4W\nEnding Cords: 39.8N 5.6W",
+      "author": {
+        "id": "843279639941742612",
+        "name": "mathezgreg",
+        "discriminator": "0000",
+        "nickname": "Mathezgreg",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296137486711656530",
+      "type": "Default",
+      "timestamp": "2024-10-16T10:47:37.902-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign**: SABRE\n**Unit Type**: IFV\n**LV Pair**: @TabbyInBoots \n**Carrying: @TabbyInBoots \n**Order Type:** (Skirmish) picking up crew of Tabby. Regrouping with main line to head north. \nStarting Coords: 35.5 8.5W\nEnding Coords: 34.5N 5W\n**RP**: Rabbit 1 is down. Sabre moving in to Pick up the crew and Returning to rendezvous. Prepare to rearm and repair so we can join the group up north. We got you Tabby",
+      "author": {
+        "id": "143251323683471360",
+        "name": "sabrebravo",
+        "discriminator": "0000",
+        "nickname": "Sabre Bravo",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "465613140684701707",
+            "name": "Arma 3",
+            "color": "#389E57",
+            "position": 30
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "534149034613407744",
+            "name": "Atlas Server",
+            "color": "#39D3DD",
+            "position": 28
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/143251323683471360/7c2208ad63a5e915fbdd983e915816cb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "242760724445790211",
+          "name": "tabbyinboots",
+          "discriminator": "0000",
+          "nickname": "TabbyInBoots",
+          "color": "#FF00A3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "254762556248293376",
+              "name": "Fleet Ambassador",
+              "color": "#FF00A3",
+              "position": 45
+            },
+            {
+              "id": "222080414481645568",
+              "name": "Fleet Admirals (SuperMods)",
+              "color": "#E74C3C",
+              "position": 43
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            },
+            {
+              "id": "237019383728308225",
+              "name": "Special Guest",
+              "color": null,
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296140398410076240",
+      "type": "Default",
+      "timestamp": "2024-10-16T10:59:12.105-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Nuke\nUnit Type: light mech\n\n**Order Type**: Skirmish, goal leave beach bunny and regroup with other mechs\n\nFormation/Facing: north east\n\nStarting Coords: 36.2N 7W\nEnding Coords: 38.2N 6W \n\nRP: neuro interface malfunction. Status: active. Regrouping with rest of the company. Maintenance advised. Receiving orders.",
+      "author": {
+        "id": "1235428508315025439",
+        "name": "kbithenuke",
+        "discriminator": "0000",
+        "nickname": "Kbithenuke(light mech)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "465613140684701707",
+            "name": "Arma 3",
+            "color": "#389E57",
+            "position": 30
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1235428508315025439/e17e727802ab8e31e9248e5746796c8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296142608514547723",
+      "type": "Default",
+      "timestamp": "2024-10-16T11:07:59.035-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign**: Desperatos\n**Unit Type**: Light Vehicle\n**LV Pair**: @Captain Rex (Thunderbolt Recon) Lightning\n**Carrying: ** @Lono (Dagger Company) Infantry\n**Order Type:** (Skirmish) as the pair that have not taken any hits yet, Desperatos and Lightning will take the lead as we move East to find a new vehicle for Tabby. They will hold with Avi and Sabre to drop Tabby Off, then hold just North of her position to cover till she has secured her new vehicle\nStarting Coords: 35N 8.5W\nEnding Coords: 35N 5.5W\n**RP**: \"Desperatos Copy that Rabbit-1 @TabbyInBoots. We got you covered while you get a ride. And if you need paint...we got paint. We decided to bring a whole box full of assorted spray cans to ~~Leave graffiti all over Yos statues~~ draw inspirational and educational artwork for the kids. I am sure we can get that bunny hopping in your colors of choice\n\nRabbits! Hoppity Hop Hop Out!!\"",
+      "author": {
+        "id": "248894550901260288",
+        "name": "dresdenvalareo",
+        "discriminator": "0000",
+        "nickname": "Dresden Valareo",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222462140034973697",
+            "name": "Fleet Officer (Moderator)",
+            "color": "#3498DB",
+            "position": 42
+          },
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "944400968005603328",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 37
+          },
+          {
+            "id": "944403616159121448",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 36
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "585542447984279562",
+            "name": "Nitro Booster",
+            "color": "#F47FFF",
+            "position": 32
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          },
+          {
+            "id": "944400968005603330",
+            "name": "Twitch Subscriber: Tier 2",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "944403616159121449",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/248894550901260288/avatars/139817d53068cf93d4fe4caf00248d17.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296142608673935472",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296142608673935472/20241016105742_1.jpg?ex=6713309f&is=6711df1f&hm=80f8ae7a8f03243e132580016f22856aa4d080ec35193d238220e327ac44c916&",
+          "fileName": "20241016105742_1.jpg",
+          "fileSizeBytes": 270136
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "472860729356058634",
+          "name": "captainrex76",
+          "discriminator": "0000",
+          "nickname": "Captain Rex (Thunderbolt Recon)",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/472860729356058634/5c172e208ed523a36c3ce16c08cebdaf.png?size=512"
+        },
+        {
+          "id": "242760724445790211",
+          "name": "tabbyinboots",
+          "discriminator": "0000",
+          "nickname": "TabbyInBoots",
+          "color": "#FF00A3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "254762556248293376",
+              "name": "Fleet Ambassador",
+              "color": "#FF00A3",
+              "position": 45
+            },
+            {
+              "id": "222080414481645568",
+              "name": "Fleet Admirals (SuperMods)",
+              "color": "#E74C3C",
+              "position": 43
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            },
+            {
+              "id": "237019383728308225",
+              "name": "Special Guest",
+              "color": null,
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+        },
+        {
+          "id": "300857463702421511",
+          "name": "lonosic",
+          "discriminator": "0000",
+          "nickname": "Lono (Dagger Company)",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "465613140684701707",
+              "name": "Arma 3",
+              "color": "#389E57",
+              "position": 30
+            },
+            {
+              "id": "1016078504766492682",
+              "name": "ArmSec Mercenary",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "853404644985405440",
+              "name": "Foxhole",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/300857463702421511/0c4903b9f8187bf5d4041755c7130e3b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296146322407161897",
+      "type": "Default",
+      "timestamp": "2024-10-16T11:22:44.496-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Lightning\nUnit Type: Light Vehicle\nLV Pair: @Dresden Valareo en \nCarrying:  @Lono (Dagger Company) Inf\nOrder Type: (Skirmish) as the pair that have not taken any hits yet, Desperatos and Lightning will take the lead as we move East to find a new vehicle for Tabby. They will hold with Avi and Sabre to drop Tabby Off, then hold just North of her position to cover till she has secured her new vehicle\nStarting Coords: 35N 8.5W\nEnding Coords: 35N 5.5W\nRP: \"Lightning copies, Rabbit-1 @TabbyInBoots. We've got your back. As for paint, I've got more green and black than you'll ever need in your whole life.\" \n\n*Ride the Lightning by Metallica begins to blast out of the speakers*\n\n\"Let's roll.\" *the roar of engines and kicking up of dust is heard*",
+      "author": {
+        "id": "472860729356058634",
+        "name": "captainrex76",
+        "discriminator": "0000",
+        "nickname": "Captain Rex (Thunderbolt Recon)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/472860729356058634/5c172e208ed523a36c3ce16c08cebdaf.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296146322063360060",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296146322063360060/20241016105742_1.png?ex=67133414&is=6711e294&hm=cbc2fd685075290e742336440386f75011606dc44ae7e668d0eb5990aedf517f&",
+          "fileName": "20241016105742_1.png",
+          "fileSizeBytes": 1908171
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "248894550901260288",
+          "name": "dresdenvalareo",
+          "discriminator": "0000",
+          "nickname": "Dresden Valareo",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222462140034973697",
+              "name": "Fleet Officer (Moderator)",
+              "color": "#3498DB",
+              "position": 42
+            },
+            {
+              "id": "222079633401708544",
+              "name": "Captain (Patreon)",
+              "color": "#F1C40F",
+              "position": 40
+            },
+            {
+              "id": "944400968005603328",
+              "name": "Sergeant (Twitch)",
+              "color": "#7562E9",
+              "position": 37
+            },
+            {
+              "id": "944403616159121448",
+              "name": "Sergeant (Twitch)",
+              "color": "#7562E9",
+              "position": 36
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "585542447984279562",
+              "name": "Nitro Booster",
+              "color": "#F47FFF",
+              "position": 32
+            },
+            {
+              "id": "464927817876897802",
+              "name": "Stream News",
+              "color": "#C27C0E",
+              "position": 31
+            },
+            {
+              "id": "1016078504766492682",
+              "name": "ArmSec Mercenary",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "462298724840898560",
+              "name": "Star Citizen",
+              "color": "#206694",
+              "position": 24
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            },
+            {
+              "id": "944400968005603330",
+              "name": "Twitch Subscriber: Tier 2",
+              "color": null,
+              "position": 9
+            },
+            {
+              "id": "944403616159121449",
+              "name": "Twitch Subscriber: Tier 1",
+              "color": null,
+              "position": 7
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/248894550901260288/avatars/139817d53068cf93d4fe4caf00248d17.png?size=512"
+        },
+        {
+          "id": "242760724445790211",
+          "name": "tabbyinboots",
+          "discriminator": "0000",
+          "nickname": "TabbyInBoots",
+          "color": "#FF00A3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "254762556248293376",
+              "name": "Fleet Ambassador",
+              "color": "#FF00A3",
+              "position": 45
+            },
+            {
+              "id": "222080414481645568",
+              "name": "Fleet Admirals (SuperMods)",
+              "color": "#E74C3C",
+              "position": 43
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            },
+            {
+              "id": "237019383728308225",
+              "name": "Special Guest",
+              "color": null,
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+        },
+        {
+          "id": "300857463702421511",
+          "name": "lonosic",
+          "discriminator": "0000",
+          "nickname": "Lono (Dagger Company)",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "465613140684701707",
+              "name": "Arma 3",
+              "color": "#389E57",
+              "position": 30
+            },
+            {
+              "id": "1016078504766492682",
+              "name": "ArmSec Mercenary",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "853404644985405440",
+              "name": "Foxhole",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/300857463702421511/0c4903b9f8187bf5d4041755c7130e3b.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296147702001827931",
+      "type": "Default",
+      "timestamp": "2024-10-16T11:28:13.417-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Scar\nUnit Type: Light mech\n\nOrder Type: Joint Skirmish with the other Light Mechs, Move towards 35N 5W, firing at the powerplant's hostiles, then head north to 38.5N 6W while staying out of range of the Citadel\n\nFacing: The Citadel at all times\n\nStart Cords: 36N - 6W\nEnd Cords: 38.5N - 6W \n\nRP:\n*Week 2*\n\n**High Command** changed my callsign to **Scar.** I have to say, I like the sound of it.\nWhile escorting the **Beach Bunny**, we received a request for backup from operation **Blackout**, and decided to assist them.\nWe arrived just on time to prevent any friendly losses, but in doing so, got split up from our main forces.\nAfter the fight, we received intel on **The Citadel**. It seems their defenses cover half of the **Power Plant**. Good thing we didn't approach it from the north. Godspeed **Griffer**.\n**Tardigrade**'s pilot suggested we clean up the remaining units at the Plant and regroup north with our main forces. A couple of us wanted to help CO **Tabby**, but the final vote was in favor of the initial proposal. Luckily, our initial flanking cleaned most of them out, so we should be able to regroup with our retreating Light Vehicles at the very least.\n...\nAs I finish this journal entry, I realize I've fallen for the off by 1 error yet again when naming said entries. Oh well, it's not like I can edit the previous one. \nScar out.",
+      "author": {
+        "id": "234292052026720256",
+        "name": "alx9865",
+        "discriminator": "0000",
+        "nickname": "alx (Scar)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/234292052026720256/6a3b8e6c4a5bf12c502233394f6739a8.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296147701658026024",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296147701658026024/Map_1_-_First_Round_Completed.png?ex=6713355d&is=6711e3dd&hm=6f264818cc7d9d7c4e48a5245a0f74717d8b0ba6c3ccabc114ccdb7812c1c771&",
+          "fileName": "Map_1_-_First_Round_Completed.png",
+          "fileSizeBytes": 1269211
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296151538917707810",
+      "type": "Default",
+      "timestamp": "2024-10-16T11:43:28.209-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: DRAKE 1-1\nUnit Type: Light mech\n\nOrder Type: Joint Skirmish with the other Light Mechs, Move towards 35N 5W, firing at the powerplant's hostiles, then head north to 38.5N 6W while staying out of range of the Citadel.\n\nFacing: The Citadel at all times.\n\nStarting coords: 36N 6W\nEnding coords: 38.5N 6W \n\nRP:\nWeek 2\nFor us it was quiet when we disembarked, but I could hear combat all around the area.\nThen we started to take a few shots from a nearby powerplant.\nNot a lot, they were focused on our other teams. We fire back to cover them, but our mission is the same:\nscout the north, keep out of range of the citadel, bring peace and order to this place.",
+      "author": {
+        "id": "145965531181219841",
+        "name": "tearsaber",
+        "discriminator": "0000",
+        "nickname": "Ducksaber (Drake 1-1)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "465613140684701707",
+            "name": "Arma 3",
+            "color": "#389E57",
+            "position": 30
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "534149034613407744",
+            "name": "Atlas Server",
+            "color": "#39D3DD",
+            "position": 28
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/145965531181219841/2f81d09f565e9a863ec0d52179ec20df.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296151538720309248",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296151538720309248/Map_1_-_First_Round_Completed.png?ex=671338f0&is=6711e770&hm=575ef826733873453402e3f94e27851249b64b30c34d8f31e7f35d2e9c681b66&",
+          "fileName": "Map_1_-_First_Round_Completed.png",
+          "fileSizeBytes": 1269224
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296181551511634050",
+      "type": "Default",
+      "timestamp": "2024-10-16T13:42:43.769-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Avi\nUnit Type: Light Vehicle\nLV Pair: @Sabre Bravo @TabbyInBoots\nCarrying: tabby and hope\nOrder Type: (Skirmish) moving to aquire new wheels at end coords for our rabbit overlord\nStarting Coords: 35N 8.5W\nEnding Coords: 34.5N 5W\nRP: having to drop our dreams of glory and pick up rabbit 1 to save the hope of a rabbitastic bloody victory",
+      "author": {
+        "id": "818415771566473247",
+        "name": "avisern",
+        "discriminator": "0000",
+        "nickname": "Avisern",
+        "color": "#7562E9",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "944400968005603328",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 37
+          },
+          {
+            "id": "944403616159121448",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 36
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "944400968005603329",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 10
+          },
+          {
+            "id": "944403616159121449",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/818415771566473247/8b041fb288134f2c4ed60169ce8ad312.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "242760724445790211",
+          "name": "tabbyinboots",
+          "discriminator": "0000",
+          "nickname": "TabbyInBoots",
+          "color": "#FF00A3",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "254762556248293376",
+              "name": "Fleet Ambassador",
+              "color": "#FF00A3",
+              "position": 45
+            },
+            {
+              "id": "222080414481645568",
+              "name": "Fleet Admirals (SuperMods)",
+              "color": "#E74C3C",
+              "position": 43
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            },
+            {
+              "id": "237019383728308225",
+              "name": "Special Guest",
+              "color": null,
+              "position": 22
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296183509769257054",
+      "type": "Default",
+      "timestamp": "2024-10-16T13:50:30.654-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit callsign: UPD\nUnit Type: Light Mech\n\nOrder Type: Joining @Jesus H. Christ (Tardigrade) skirmish order\nFormation/Facing: Bringing up the rear\n\nRP: \n\n*Now the first push seems to be working great, lets get keep our feet moving and scout some area*",
+      "author": {
+        "id": "276739583398379521",
+        "name": "mc1cheeseburger",
+        "discriminator": "0000",
+        "nickname": "Mc1cheeseburger (UPD)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/276739583398379521/b992162077fba7ed04a85182582a179b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "993468724826873868",
+          "name": "peppe_laugh",
+          "discriminator": "0000",
+          "nickname": "Jesus H. Christ (Tardigrade)",
+          "color": "#9B59B6",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/993468724826873868/c2f0a1477143670f52a350c3aaebc9f0.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296189468080083037",
+      "type": "Default",
+      "timestamp": "2024-10-16T14:14:11.226-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Dagger Company\nUnit Type: Infantry\nLV Pair: Desperatos and Lightning\n\nOrder Type: Assault, Goal -  Mounted up in the vehicles of the Desperatos and Lightning, Dagger will continue being mounted in their holds until they reach their endpoint (35N 5.5W). Upon dismounting, Dagger will be moving to regroup (36.1N 5.3W) with Teal and other ground elements to render protection against enemy forces. \n\nFormation/Facing: Facing East\n\nStarting Coords: 35N 8.5W\nDismount Coords: 35N 5.5W\nEnding Coords: 36.1N 5.3W \n\nRP: \"Dagger Company to Formation Bunny Shepard West, we'll be dismounting here. Can't spend all day looking pretty in your cargo holds. Good Luck out there, and lets get our bonus checks. Dagger, Out\"",
+      "author": {
+        "id": "300857463702421511",
+        "name": "lonosic",
+        "discriminator": "0000",
+        "nickname": "Lono (Dagger Company)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "465613140684701707",
+            "name": "Arma 3",
+            "color": "#389E57",
+            "position": 30
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/300857463702421511/0c4903b9f8187bf5d4041755c7130e3b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296189913561174067",
+      "type": "Default",
+      "timestamp": "2024-10-16T14:15:57.437-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Legendary TrionWolf Unit Callsign: Hammerfall\nUnit Type: Engineer\nLV Pair: lothcat @aNjaSqurl-Adopter of Loth Cats.  and fenrir´ Wovles @Legendary TrionWolf \nCarrying: 1/2 Supplies\n\nOrder Type: \nGet supplies from 36.6N 7.3W\nThen jump up on lothcat and the wolves\nDisembark at 37.7  9W\nrig the bridge for remote detonation\n\nFormation/Facing: northwest facing the convoy\n\nStarting Coords: 36.8N 7.5W\nEnding Coords:  roughly 37.7N Depending on LV orders\n\nRP: \"you now its time for some destruction\"",
+      "author": {
+        "id": "287897866481958912",
+        "name": "warli_2004",
+        "discriminator": "0000",
+        "nickname": "(Delta Engineering Corp)Warli",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/287897866481958912/18f0fa629959af57cdfd2876ee7241e8.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296189913263374367",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296189913263374367/image.png?ex=67135cad&is=67120b2d&hm=bcb1e03c9566d976c7a57888f19a35c0f43585f593710cff9124d729a89f78d8&",
+          "fileName": "image.png",
+          "fileSizeBytes": 897784
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "222475572708769792",
+          "name": "trionwolf",
+          "discriminator": "0000",
+          "nickname": "Legendary TrionWolf",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222462140034973697",
+              "name": "Fleet Officer (Moderator)",
+              "color": "#3498DB",
+              "position": 42
+            },
+            {
+              "id": "360797515139907584",
+              "name": "Sergeant (YouTube)",
+              "color": "#7562E9",
+              "position": 39
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "464927817876897802",
+              "name": "Stream News",
+              "color": "#C27C0E",
+              "position": 31
+            },
+            {
+              "id": "1016078504766492682",
+              "name": "ArmSec Mercenary",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "534149034613407744",
+              "name": "Atlas Server",
+              "color": "#39D3DD",
+              "position": 28
+            },
+            {
+              "id": "853404644985405440",
+              "name": "Foxhole",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "462298724840898560",
+              "name": "Star Citizen",
+              "color": "#206694",
+              "position": 24
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/222475572708769792/avatars/28f5b3ca184e7f16f03ecd7a7632bd4b.png?size=512"
+        },
+        {
+          "id": "216695933914578946",
+          "name": "anjasqurl",
+          "discriminator": "0000",
+          "nickname": "aNjaSqurl-Adopter of Loth Cats.",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "303915188694810624",
+              "name": "Fleet Operation Officer",
+              "color": "#E67E22",
+              "position": 41
+            },
+            {
+              "id": "222079633401708544",
+              "name": "Captain (Patreon)",
+              "color": "#F1C40F",
+              "position": 40
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "464927817876897802",
+              "name": "Stream News",
+              "color": "#C27C0E",
+              "position": 31
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "462298724840898560",
+              "name": "Star Citizen",
+              "color": "#206694",
+              "position": 24
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/216695933914578946/f73678aac3b1d03a04ca55a3bb99a4f2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296191956996849665",
+      "type": "Default",
+      "timestamp": "2024-10-16T14:24:04.63-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Fenrir' Wovles\nUnit Type: Light Vehicle \nLV Pair: Loth Cat @aNjaSqurl-Adopter of Loth Cats.-Adopter of Loth Cats. \nCarrying: Hammerfall (engineer)\n\nOrder Type: Skirmish\n\nFormation/Facing: Moving in formation with Loth Cat and traveling West towards enemy convoy. \n\nStarting Coords: 36.9N 7.3W\nEnding Coords: 38.9N 9.1 W before bridge*\n\n\nRP: \"Loth Cat are you asking me on a date? fire and destruction sure thing old boy.\" Alright crew the engineers are unloaded time to hunt. (edited)",
+      "author": {
+        "id": "222475572708769792",
+        "name": "trionwolf",
+        "discriminator": "0000",
+        "nickname": "Legendary TrionWolf",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222462140034973697",
+            "name": "Fleet Officer (Moderator)",
+            "color": "#3498DB",
+            "position": 42
+          },
+          {
+            "id": "360797515139907584",
+            "name": "Sergeant (YouTube)",
+            "color": "#7562E9",
+            "position": 39
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "534149034613407744",
+            "name": "Atlas Server",
+            "color": "#39D3DD",
+            "position": 28
+          },
+          {
+            "id": "853404644985405440",
+            "name": "Foxhole",
+            "color": "#11806A",
+            "position": 26
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/222475572708769792/avatars/28f5b3ca184e7f16f03ecd7a7632bd4b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "216695933914578946",
+          "name": "anjasqurl",
+          "discriminator": "0000",
+          "nickname": "aNjaSqurl-Adopter of Loth Cats.",
+          "color": "#E67E22",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "303915188694810624",
+              "name": "Fleet Operation Officer",
+              "color": "#E67E22",
+              "position": 41
+            },
+            {
+              "id": "222079633401708544",
+              "name": "Captain (Patreon)",
+              "color": "#F1C40F",
+              "position": 40
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "464927817876897802",
+              "name": "Stream News",
+              "color": "#C27C0E",
+              "position": 31
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "462298724840898560",
+              "name": "Star Citizen",
+              "color": "#206694",
+              "position": 24
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/216695933914578946/f73678aac3b1d03a04ca55a3bb99a4f2.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296191988743278622",
+      "type": "Default",
+      "timestamp": "2024-10-16T14:24:12.199-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Loth Cat.\nUnit Type: Light Vehicle \nLV Pair: Fenrir's Wolves (@Legendary TrionWolf)\nCarrying: Hammerfall @(Delta Engineering Corp)Warli \n\nOrder Type: Skirmish\n\nFormation/Facing: Moving in formation with Fenrir' Wolves and traveling West towards enemy convoy. \n\nStarting Coords: 36.9N 7.3W\nEnding Coords: 38.9N 9.1 W before bridge*\n\n\nRP: *Alright then. Got all them freeloaders loaded up? Good. Its time this old crate got a move on and we did some hunting wot! Wolves my good lad. Care to join me in a bit of a sprint out to the front?*",
+      "author": {
+        "id": "216695933914578946",
+        "name": "anjasqurl",
+        "discriminator": "0000",
+        "nickname": "aNjaSqurl-Adopter of Loth Cats.",
+        "color": "#E67E22",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "303915188694810624",
+            "name": "Fleet Operation Officer",
+            "color": "#E67E22",
+            "position": 41
+          },
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/216695933914578946/f73678aac3b1d03a04ca55a3bb99a4f2.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296191986990059540",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296191986990059540/image-14.png?ex=67135e9b&is=67120d1b&hm=6b74c1d69e9074dc8cb3a97ea00ca740f48534e9f98ce1fce4460846adcea59f&",
+          "fileName": "image-14.png",
+          "fileSizeBytes": 897784
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "222475572708769792",
+          "name": "trionwolf",
+          "discriminator": "0000",
+          "nickname": "Legendary TrionWolf",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222462140034973697",
+              "name": "Fleet Officer (Moderator)",
+              "color": "#3498DB",
+              "position": 42
+            },
+            {
+              "id": "360797515139907584",
+              "name": "Sergeant (YouTube)",
+              "color": "#7562E9",
+              "position": 39
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "464927817876897802",
+              "name": "Stream News",
+              "color": "#C27C0E",
+              "position": 31
+            },
+            {
+              "id": "1016078504766492682",
+              "name": "ArmSec Mercenary",
+              "color": "#1F8B4C",
+              "position": 29
+            },
+            {
+              "id": "534149034613407744",
+              "name": "Atlas Server",
+              "color": "#39D3DD",
+              "position": 28
+            },
+            {
+              "id": "853404644985405440",
+              "name": "Foxhole",
+              "color": "#11806A",
+              "position": 26
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "462298724840898560",
+              "name": "Star Citizen",
+              "color": "#206694",
+              "position": 24
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/222475572708769792/avatars/28f5b3ca184e7f16f03ecd7a7632bd4b.png?size=512"
+        },
+        {
+          "id": "287897866481958912",
+          "name": "warli_2004",
+          "discriminator": "0000",
+          "nickname": "(Delta Engineering Corp)Warli",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "222079633401708544",
+              "name": "Captain (Patreon)",
+              "color": "#F1C40F",
+              "position": 40
+            },
+            {
+              "id": "222082598128713728",
+              "name": "Enlisted",
+              "color": "#9B59B6",
+              "position": 33
+            },
+            {
+              "id": "1216116508640415884",
+              "name": "Meta Campaign Trooper",
+              "color": "#DBA851",
+              "position": 25
+            },
+            {
+              "id": "511241582599471115",
+              "name": "Tabletop Games",
+              "color": "#96DA5E",
+              "position": 23
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/287897866481958912/18f0fa629959af57cdfd2876ee7241e8.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1296194097677336586",
+      "type": "Default",
+      "timestamp": "2024-10-16T14:32:35.008-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: fire5\nUnit Type: infintry \n\n\nOrder Type: Advance \n\nFormation/Facing:  towards Matariki \n\nStarting Coords: 36.1N 7.1W\n\nEmbark on Matariki at (36.5 7.1W )\n\nEnding Coords: (36.5 7.1W )",
+      "author": {
+        "id": "986436316654886942",
+        "name": "anothergamedev6777",
+        "discriminator": "0000",
+        "nickname": "anothergamedev  (fire5)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986436316654886942/f4a32f7ee65cdf7ddaaea9f915339b2f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296198916156428339",
+      "type": "Default",
+      "timestamp": "2024-10-16T14:51:43.823-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign**: BEARDS\n**Unit Type**: Engineer\n**LV Pair:** Tabby & Sabre\n**Carrying:** 1/2 Supplies\n\n**Order Type**: \n- Get supplies from 36.6N 7.3W. Dropped off by Dare, Shoebill-1 and Wombat\n- Then embark on the Beach Bunny (36.5N 7.5W) \n- Disembark 34.5N 5.8W next to the bridge and wait for the scout group. \n- **Repair** Callsign Sabre. Embark with LV pair that has room.\n\n**Formation/Facing:** Northwards in LV pair\n\n**Starting Coords**: 36.8N 7.5W\n**Ending Coords**:  roughly 34.5N 5W (Depends on LV orders)\n\n**RP**: *On the Beach Bunny* \"I could get used to going up and down the river. No exploding fish guts anywhere and if we put in the safety for the Fusion reactor in it would not even hum\"\n\"Wait you disabled the safety?!\"",
+      "author": {
+        "id": "320974374486278155",
+        "name": "syntaxfehler",
+        "discriminator": "0000",
+        "nickname": "Syntax Fehler (BEARDS)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/320974374486278155/f539ed4d79eb114af733eca24dad2555.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296205075793969204",
+      "type": "Default",
+      "timestamp": "2024-10-16T15:16:12.395-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Knitter\nUnit Type: Medic Unit\nCurrent location: Riding Dirtmovers\n\nOrder Type: Embark into Dirtmovers, dismounting at end cords to **provide aid** to any civilians in the area or those fleeing the fighting to the *East* and South.\n\nFormation/Facing: Southeast\nStarting Cords: 36.4N 7.4W \nEnding Cords: 36.0N 5.3W\n\nRP: \"Looks like all of ours are getting treated, distribute some out to the civilians, might earn ourselves some favor.\"",
+      "author": {
+        "id": "426589112129028116",
+        "name": "fiachsticks",
+        "discriminator": "0000",
+        "nickname": "Fiach (Wound Knitters - Medics)",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/426589112129028116/8be4acdf074e787124e849f4608fe605.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296211220336087122",
+      "type": "Default",
+      "timestamp": "2024-10-16T15:40:37.368-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign:**  Beach Bunny\n**Unit Type:**  LCAC\n**LV Pair:**  N/A\n**Carrying:**  *BEARDS* (Temporarily).\n\n**Order Type:**  Maneuver\n**Goal:**\n- Allow *Fenrir's Wolves* and *Loth Cat* to use Beach Bunny as a bridge (36.3N : 7.5W).\n- Allow *Nuke* to Disembark (36.3N : 7.5W).\n- Allow *BEARDS* to Embark (36.3N : 7.5W).\n- Disembark *BEARDS* at requested location (34.5N : 5.7W).\n- **Leaving map edge** to go retrieve supplies from orbitals (32N : 5.5W).\n**Note:**  *Shack stated that he will let you and I know, Tabby, how long I will be off Map and how many supplies I will be filled with.*\n\n**Formation/Facing:**  Will be off map, if facing matters.. towards edge of map.\n\n**Starting Coords:** 36.3N : 7.5W\n**Ending Coords:**\n- **Drop Point:**  34.5N : 5.7W\n- **True End Point:**  32N : 5.5W (**LEAVING BOARD**)\n\n**RP:**\n\"Hey, we actually lived. Turns out driving this thing isn't that different than the bikes.\" **Turns on radio.** \"Alright Rabbit, Good hunting. We are dropping off BEARDs at the bridge and then we are out shopping, any requests?\"",
+      "author": {
+        "id": "239570286825963521",
+        "name": "drakilian",
+        "discriminator": "0000",
+        "nickname": "Drakilian (HR/Beach Bunny)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/239570286825963521/avatars/755f01577258763acebd62b9caa6e98a.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1296211220097138849",
+          "url": "https://cdn.discordapp.com/attachments/1290708167398789252/1296211220097138849/image.png?ex=67137085&is=67121f05&hm=f361b9afd499553ac0e78f430486b78dfeb78a2084903c60512fef85b6e0c8d5&",
+          "fileName": "image.png",
+          "fileSizeBytes": 861622
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "485114734920859669",
+            "name": "Salute",
+            "code": "Salute",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/485114734920859669.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "320974374486278155",
+              "name": "syntaxfehler",
+              "discriminator": "0000",
+              "nickname": "Syntax Fehler (BEARDS)",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/320974374486278155/f539ed4d79eb114af733eca24dad2555.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296213631985516657",
+      "type": "Default",
+      "timestamp": "2024-10-16T15:50:12.35-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Unit Callsign:** Teal\n**Unit Type:** Medic\n\n**Order Type:** Embark on Dirtmovers, Disembark once arrived, Aid civilians nearby (if in range)\n\n**Formation/Facing:** Facing Northward\n\n**Starting Coords:** 36.7N 7.2W\n**Ending Coords:** 36.1N 5.3W\n\n**RP:** (one of these days)",
+      "author": {
+        "id": "314775733274673153",
+        "name": "fleppo99",
+        "discriminator": "0000",
+        "nickname": "Fleppo",
+        "color": "#9B59B6",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/314775733274673153/441b48d6b312126dcde9606241a059f7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296214213794205756",
+      "type": "Default",
+      "timestamp": "2024-10-16T15:52:31.064-05:00",
+      "timestampEdited": "2024-10-16T15:52:47.309-05:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: BT\nUnit Type: Light mech\nCarrying: N/A\n\nOrder Type: Skirmish, Move towards 35N 5W, firing on the powerplant, then move back north to 38.5N 6W in a wide angle to avoid fire.\n\nFacing: Northeast, in formation with the other mechs.\n\nStarting coords: 36N 7W\nEnding coords: 38.5N 6W \n\nRp: \"BT you can shoot better than that“\n    *my weapon systems were still warming up*\n    \"I've heard that excuse before, lets see if you do better at the power plant\"",
+      "author": {
+        "id": "1119280009035665469",
+        "name": "dirgediggler",
+        "discriminator": "0000",
+        "nickname": "Teej(BT)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1119280009035665469/128e2bad4b5ee9fcfcb16a7f440435b9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296246319375060993",
+      "type": "Default",
+      "timestamp": "2024-10-16T18:00:05.631-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Warforged \nUnit Type: Infantry\n\nOrder Type: Hold position - Covering for any of our forces moving back in this direction\n\nFormation/Facing:  West\n\nStarting Coords:  36.5N 7.2W\nEnding Coords: 36.5N 7.2W\n\nRP: “Let’s dig in for now! We’ll catch a ride out of here to reposition when we can!”",
+      "author": {
+        "id": "876179373940686868",
+        "name": "connburger125",
+        "discriminator": "0000",
+        "nickname": "ConnBurger125 (Warforged)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/876179373940686868/93e66b05f10aa93be4497974b6b0c9cd.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1296247417066356807",
+      "type": "Default",
+      "timestamp": "2024-10-16T18:04:27.341-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "## **======ORDERS CLOSED======**",
+      "author": {
+        "id": "248894550901260288",
+        "name": "dresdenvalareo",
+        "discriminator": "0000",
+        "nickname": "Dresden Valareo",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222462140034973697",
+            "name": "Fleet Officer (Moderator)",
+            "color": "#3498DB",
+            "position": 42
+          },
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "944400968005603328",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 37
+          },
+          {
+            "id": "944403616159121448",
+            "name": "Sergeant (Twitch)",
+            "color": "#7562E9",
+            "position": 36
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "585542447984279562",
+            "name": "Nitro Booster",
+            "color": "#F47FFF",
+            "position": 32
+          },
+          {
+            "id": "464927817876897802",
+            "name": "Stream News",
+            "color": "#C27C0E",
+            "position": 31
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "462298724840898560",
+            "name": "Star Citizen",
+            "color": "#206694",
+            "position": 24
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          },
+          {
+            "id": "944400968005603330",
+            "name": "Twitch Subscriber: Tier 2",
+            "color": null,
+            "position": 9
+          },
+          {
+            "id": "944403616159121449",
+            "name": "Twitch Subscriber: Tier 1",
+            "color": null,
+            "position": 7
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/222052888531173386/users/248894550901260288/avatars/139817d53068cf93d4fe4caf00248d17.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1296247708914286602",
+      "type": "Default",
+      "timestamp": "2024-10-16T18:05:36.923-05:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Unit Callsign: Kelly\nUnit Type: Infantry \nLV Pair: Roses Aquila\n\nOrder Type: Disembark/ Skirmish\n\nFormation/Facing Facing Northeast\n\n\nStarting Cords: 36.4M 7.4W\nEnding Cords: 39.8N 5.6W",
+      "author": {
+        "id": "161977949048930304",
+        "name": "pbjjesus",
+        "discriminator": "0000",
+        "nickname": "PBJ Jesus (Kelly's Heroes)",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "222079633401708544",
+            "name": "Captain (Patreon)",
+            "color": "#F1C40F",
+            "position": 40
+          },
+          {
+            "id": "222082598128713728",
+            "name": "Enlisted",
+            "color": "#9B59B6",
+            "position": 33
+          },
+          {
+            "id": "465613140684701707",
+            "name": "Arma 3",
+            "color": "#389E57",
+            "position": 30
+          },
+          {
+            "id": "1016078504766492682",
+            "name": "ArmSec Mercenary",
+            "color": "#1F8B4C",
+            "position": 29
+          },
+          {
+            "id": "1216116508640415884",
+            "name": "Meta Campaign Trooper",
+            "color": "#DBA851",
+            "position": 25
+          },
+          {
+            "id": "511241582599471115",
+            "name": "Tabletop Games",
+            "color": "#96DA5E",
+            "position": 23
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161977949048930304/74b4a093f0e8c8dd15bf743460fd296c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF20",
+            "code": "stars",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f320.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "180026587029176320",
+              "name": "nalani",
+              "discriminator": "0000",
+              "nickname": "Nalla",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/180026587029176320/a9499edf3502f07dab90ca21742495c1.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC30",
+            "code": "rabbit",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f430.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "242760724445790211",
+              "name": "tabbyinboots",
+              "discriminator": "0000",
+              "nickname": "TabbyInBoots",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/242760724445790211/e972af08d82eac0cdcb9e64133c525c3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 30
+}
